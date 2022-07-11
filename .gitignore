@@ -1,2 +1,3 @@
 *.xopp
 PyTorch_examples/data
+*.pth
