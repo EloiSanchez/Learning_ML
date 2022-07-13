@@ -1,3 +1,4 @@
 *.xopp
 PyTorch_examples/data
 *.pth
+*/lightning_logs
